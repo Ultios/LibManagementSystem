@@ -9,7 +9,7 @@ Detail/ deskripsi task:
   1. Alur program sederhana adalah:
       1. Koneksi ke database perpustakaanya
       2. Melakukan 9 tugas yang dideskripsikan
-      3. Setelah selesai melakukan tugas, kembali ke intro dan terus melakukan pemrograman
+      3. Setelah selesai melakukan tugas, kembali ke menampilkan introduction dan terus melakukan pemrograman
          sampai user melakukan exit program.
   2. 9 Tugas yang dapat dilakukan program:
         1. Pendaftaran User Baru: melakukan pendaftaran anggota baru.
