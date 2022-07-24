@@ -1,5 +1,5 @@
 # LibManagementSystem
-Assignment from Pacmann Bootcamp
+Assignment dari Bootcamp Pacmann
 
 Tujuan Pengerjaan Project:
   Membuat aplikasi sederhana untuk memanipulasi database perpustakaan dengan tujuan
